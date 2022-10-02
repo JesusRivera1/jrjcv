@@ -43,8 +43,9 @@
 		<div class="row align-items-start">
 			<div class="col">
 				<h1 align="center" class="card-subtitle mb-2 text-muted">Jesús Rivera Jácome</h1>
-				<p style="text-align: justify;"> SOY UNA PERSONA AMABLE E INTELIGENTE QUE BUSCA SUPERARSE EN CADA OBJETIVO QUE REALICE, ADEMÁS DE QUE SOY MUY ORGANIZADO Y ME GUSTA COMUNICAR MIS IDEAS.
-				ME GUSTA TRABAJAR EN EQUIPO Y ADEMÁS ESCUCHAR LAS OPINIONES DE MIS COMPAÑEROS PARA PODER IMPLEMENTAR O MEJORAR EL ÁREA DONDE ME DESARROLLO.</p>
+				<p style="text-align: justify;"> Soy una persona amable e inteligente que busca superarse en cada objetivo que realice, además de que soy muy organizado y me gusta comunicar mis ideas.
+Me gusta trabajar en equipo y además escuchar las opiniones de mis compañeros para poder implementar o mejorar el área donde me desarrollo.
+ </p>
 			</div>
 
 
